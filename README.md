@@ -1,12 +1,15 @@
 # Lopez-et-al-2025
-MATLAB code for Lopez et al 2025
 
-Batch_AUC_Peak_Calculations.m was used to calculate AUC and peak amplitudes. Batch_AUC_Peak_Calculations.m is just the AUC_Peak_SoloCalculations.m code converted to run on multiple files in one folder. 
+- Batch_AUC_Peak_Calculations.m was used to calculate AUC and peak amplitudes. 
 
-CalculateCorrelations.m was used to calculate correlations of the dopamine signal with speed data. 
+- Batch_AUC_Peak_Calculations.m is just the AUC_Peak_SoloCalculations.m code converted to run on multiple files in one folder. 
 
-waveform_analysis.zip contains code used to calculate bootstrapped confidence interval waveform analyses. 
+- CalculateCorrelations.m was used to calculate correlations of the dopamine signal with speed data. 
 
-The encoder model repository can be accessed here: (https://github.com/juliamcox/Lopez_etal_regression)
+- waveform_analysis.zip contains code used to calculate bootstrapped confidence interval waveform analyses. 
 
-The decoder model repository can be accessed here: (https://github.com/Mschaid/aa_lstmfcn)
+### Encoder and Decoder Models
+
+- The encoder model repository can be accessed here: (https://github.com/juliamcox/Lopez_etal_regression)
+
+- The decoder model repository can be accessed here: (https://github.com/Mschaid/aa_lstmfcn)
